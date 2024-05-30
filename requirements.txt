@@ -1,0 +1,12 @@
+about-time==4.2.1
+alive-progress==3.1.5
+certifi==2024.2.2
+charset-normalizer==3.3.2
+darkdetect==0.8.0
+geographiclib==2.0
+geopy==2.4.1
+grapheme==0.6.0
+idna==3.6
+PyYAML==6.0.1
+requests==2.31.0
+urllib3==2.2.1
