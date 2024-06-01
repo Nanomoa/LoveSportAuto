@@ -1,76 +1,76 @@
 AutoLoveSport:
-  proxy_url: ''
+  proxy_url: https://newproxyurl.com
   regions:
-    - title: 南苑操场
+    - title: "南苑操场"
       id: 41aaeb5918574966be38f85443a5504c
       enabled: true
-    - title: 办公楼
+    - title: "办公楼"
       id: c82639089baa48dcab4ee2b660e5908d
       enabled: true
-    - title: 北苑宿舍
+    - title: "北苑宿舍"
       id: de373ced05064e0c94754fa2df8898df
       enabled: true
-    - title: 四方校区东山操场
+    - title: "四方校区东山操场"
       id: 7ca37291adcd46a7959849b50fb94061
       enabled: false
-    - title: 四方校区打卡点
+    - title: "四方校区打卡点"
       id: 8f17af9fa6034ba7aca9e0decc63fe9d
       enabled: false
-    - title: 延安,延安精
+    - title: "延安,延安精"
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: 惠众餐厅,核心价值观国家层
+    - title: "惠众餐厅,核心价值观国家层"
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: 大青松.中国
+    - title: "大青松.中国"
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: 西柏坡.西柏坡精
+    - title: "西柏坡.西柏坡精"
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: 遵义.长征精
+    - title: "遵义.长征精"
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: 奔跑.核心价值观个人层
+    - title: "奔跑.核心价值观个人层"
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: 井冈山精
+    - title: "井冈山精"
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: ''
+    - title: ""
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: 高密三贤.高密文
+    - title: "高密三贤.高密文"
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: 图书馆.科大文
+    - title: "图书馆.科大文"
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: 万马奔腾.核心价值观社会层
+    - title: "万马奔腾.核心价值观社会层"
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: 红船.红船精
+    - title: "红船.红船精"
       id: 7ad8570787114296bf8f353322651235
       enabled: false
-    - title: 测试公交打卡
+    - title: "测试公交打卡"
       id: fdc7ec95cdcc4d209bb2fb62e62ea4cb
       enabled: false
-    - title: 东李村
+    - title: "东李村"
       id: cad55b90bd254e0ab65c35305725de30
       enabled: false
-    - title: 测试
+    - title: "测试"
       id: fdc7ec95cdcc4d209bb2fb62e62ea4cb
       enabled: false
   users:
-    - student_id: '2208010408'
-      password: '20040311'
+    - student_id: "2208010408"
+      password: "20040311"
       app_device: _2211133C_Android_14
-    - student_id: '2208010411'
-      password: '20040819'
+    - student_id: "2208010411"
+      password: "20040819"
       app_device: _V2183_Android_14
-    - student_id: '2208010406'
-      password: '20031018'
+    - student_id: "2208010406"
+      password: "20031018"
       app_device: _2211133C_Android_14
-    - student_id: '2208010403'
-      password: '20040915'
+    - student_id: "2208010403"
+      password: "20040915"
       app_device: _V2183_Android_14
