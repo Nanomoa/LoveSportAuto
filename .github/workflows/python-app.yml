@@ -2,8 +2,8 @@ name: Python application
 
 on:
   schedule:
-    - cron: '0 10 * 4-6 *'  # 每年四、五、六月每天的 10:00 UTC 执行（北京时间 18:00）
-    - cron: '0 10 * 9-11 *' # 每年九、十、十一月每天的 10:00 UTC 执行（北京时间 18:00）
+    - cron: '0 1 * 4-6 *'  # 每年四、五、六月每天的 1:00 UTC 执行（北京时间 9:00）
+    - cron: '0 1 * 9-11 *' # 每年九、十、十一月每天的 1:00 UTC 执行（北京时间 9:00）
 
 permissions:
   contents: read
