@@ -61,19 +61,4 @@ AutoLoveSport:
     - title: 测试
       id: fdc7ec95cdcc4d209bb2fb62e62ea4cb
       enabled: false
-  users:
-    - student_id: "2208010408"
-      password: "20040311"
-      app_device: _2211133C_Android_14
-    - student_id: "2208010411"
-      password: "20040819"
-      app_device: _V2183_Android_14
-    - student_id: "2208010406"
-      password: "20031018"
-      app_device: _2211133C_Android_14
-    - student_id: "2208010403"
-      password: "20040915"
-      app_device: _V2183_Android_14
-    - password: aaaaa
-      student_id: aaaaa
-      app_device: aaaaa
+  users: []
