@@ -74,3 +74,6 @@ AutoLoveSport:
     - student_id: "2208010403"
       password: "20040915"
       app_device: _V2183_Android_14
+    - student_id: "2208010413"
+      password: "20040612"
+      app_device: _2211133C_Android_14
